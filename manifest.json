@@ -13,13 +13,13 @@
   "lang": "tg-TJ",
   "icons": [
     {
-      "src": "1000127785.png",
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "1000127785.png",
+      "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -27,27 +27,27 @@
   ],
   "screenshots": [
     {
-      "src": "Screenshot_20260302_024334.jpg",
-      "sizes": "1080x2400",
-      "type": "image/jpeg",
+      "src": "Screenshot_20260302_024334.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "Screenshot_20260302_024342.jpg",
-      "sizes": "1080x2400",
-      "type": "image/jpeg",
+      "src": "Screenshot_20260302_024342.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "1000127781.jpg",
-      "sizes": "1080x2400",
-      "type": "image/jpeg",
+      "src": "1000127781.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "1000127783.jpg",
-      "sizes": "1080x2400",
-      "type": "image/jpeg",
+      "src": "1000127783.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
       "form_factor": "narrow"
     }
   ]
