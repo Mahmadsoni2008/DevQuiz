@@ -5,7 +5,7 @@
   "lang": "tg-TJ",
   "start_url": "https://mahmadsonii.github.io/DevQuiz/",
   "scope": "/DevQuiz/",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#0a192f",
   "theme_color": "#0a192f",
   "orientation": "portrait",
@@ -76,5 +76,38 @@
     "weather"
   ],
   "id": "com.mahmadsonii.devQuiz",
-  "iarc_rating_id": "https://mahmadsonii.github.io/DevQuiz/"
+  "iarc_rating_id": "https://mahmadsonii.github.io/DevQuiz/",
+  "display_override": [
+    "fullscreen",
+    "minimal-ui",
+    "window-controls-overlay",
+    "standalone",
+    "browser"
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "",
+      "url": "https://mahmadsonii.github.io/DevQuiz/",
+      "id": ""
+    }
+  ],
+  "protocol_handlers": [
+    {
+      "protocol": "",
+      "url": "mahmadsonii.github.io/DevQuiz/ Ина силка як manifest.json бсоз "
+    }
+  ],
+  "share_target": {
+    "method": "GET",
+    "params": {
+      "files": [
+        {
+          "name": "",
+          "accept": []
+        }
+      ],
+      "title": " "
+    }
+  }
 }
