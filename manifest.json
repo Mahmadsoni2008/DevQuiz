@@ -1,13 +1,33 @@
 {
-  "background_color": "#ffffff",
-  "dir": "auto",
-  "display": "standalone",
-  "name": "Dev Quiz App",
-  "orientation": "any",
-  "scope": "/",
+  "name": "DevQuiz App",
   "short_name": "DevQuiz",
-  "start_url": "mahmadsoni2008.github.io/DevQuizAp/",
-  "theme_color": "#ffffff",
   "id": "com.mahmadsoni.devquiz",
-  "description": "Барнома барои санҷиши дониши барномасозӣ"
+  "description": "Барнома барои санҷиши дониши барномасозӣ ва технология.",
+  "start_url": "https://mahmadsoni2008.github.io/DevQuizAp/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "any",
+  "scope": "/DevQuizAp/",
+  "icons": [
+    {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://www.pwabuilder.com/assets/screenshots/screen_1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Homescreen of DevQuiz"
+    }
+  ]
 }
