@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "Dev Quiz App",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "DevQuiz",
+  "start_url": "mahmadsoni2008.github.io/DevQuizAp/",
+  "theme_color": "#ffffff",
+  "id": "com.mahmadsoni.devquiz",
+  "description": "Барнома барои санҷиши дониши барномасозӣ"
+}
