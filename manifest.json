@@ -3,7 +3,7 @@
   "short_name": "DevQuiz",
   "description": "Барнома барои санҷиши донишҳои барномасозӣ.",
   "lang": "tg-TJ",
-  "start_url": "/DevQuiz/",
+  "start_url": "https://mahmadsonii.github.io/DevQuiz/",
   "scope": "/DevQuiz/",
   "display": "standalone",
   "background_color": "#0a192f",
@@ -44,5 +44,9 @@
       "type": "image/png",
       "label": "Home Screen"
     }
+  ],
+  "categories": [
+    "books",
+    "photo"
   ]
 }
