@@ -27,27 +27,27 @@
   ],
   "screenshots": [
     {
-      "src": "Screenshot_20260302_024334.jpg",
+      "src": "Screenshot_20260302_024334.png",
       "sizes": "1080x2400",
       "type": "image/jpeg",
       "form_factor": "narrow"
     },
     {
-      "src": "Screenshot_20260302_024342.jpg",
-      "sizes": "1080x2400",
-      "type": "image/jpeg",
+      "src": "Screenshot_20260302_024342.png",
+      "sizes": "1920х1080",
+      "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "1000127781.jpg",
-      "sizes": "1080x2400",
-      "type": "image/jpeg",
+      "src": "1000127781.png",
+      "sizes": "1920х1080",
+      "type": "image/png",
       "form_factor": "narrow"
     },
     {
       "src": "1000127783.jpg",
-      "sizes": "1080x2400",
-      "type": "image/jpeg",
+      "sizes": "1920х1080",
+      "type": "image/png",
       "form_factor": "narrow"
     }
   ]
