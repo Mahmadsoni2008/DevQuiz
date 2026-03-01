@@ -13,13 +13,17 @@
   "lang": "tg-TJ",
   "icons": [
     {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
+      "src": "/DevQuizAp/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-      "src": "icon.png",
+      "src": "/DevQuizAp/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/DevQuizAp/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -27,7 +31,7 @@
   ],
   "screenshots": [
     {
-      "src": "Screenshot_20260302_024334.png",
+      "src": "/DevQuizAp/Screenshot_20260302_024334.png",
       "sizes": "1080x2400",
       "type": "image/png",
       "form_factor": "narrow",
