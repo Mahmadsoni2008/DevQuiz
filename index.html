@@ -69,9 +69,14 @@
     <script src="icon.png"></script>
     <script src="Screenshot.png"></script>
 <script>
- if ('serviceWorker' in navigator) {
-   navigator.serviceWorker.register('./sw.js');
- }
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js')
+        .then(reg => console.log('Service Worker омода аст!', reg))
+        .catch(err => console.log('Хатогӣ дар сабти SW:', err));
+    });
+  }
 </script>
+    
 </body>
 </html>
