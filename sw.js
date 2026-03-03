@@ -9,7 +9,9 @@ const urlsToCache = [
   "/css.js",
   "/html5.js",
   "/js.js",
-  "/python.js"
+  "/python.js",
+  "/manifest.json",
+  "/icon.png"
 ];
 
 self.addEventListener("install", event => {
